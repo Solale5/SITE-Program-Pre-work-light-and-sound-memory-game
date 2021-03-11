@@ -1,0 +1,82 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+    background-color: aqua;
+ background-image: url("https://cdn.glitch.com/0ef5615b-9c67-48f8-97a7-544592f9f7bb%2Flight-in-the-dark.jpg?v=1615437299676");
+   background-position: bottom;
+  
+    color: white; 
+  
+  
+}
+p{
+  padding-top: 70px;
+   text-align: center;
+  font-size: 1.5rem;
+}
+
+h1 {
+  font-style: italic;
+  color: white;
+  font-family: verdana, arial, sans-serif; 
+  text-align: center;
+}
+button{
+  padding: 10px;
+border-radius: 10px;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+.hidden {
+  display: none;
+}
+
+#button1 {
+    background: lightgreen;
+}
+#button2 {
+    background: lightblue;
+}
+#button3 {
+    background: pink;
+}
+#button4 {
+    background: lightyellow;
+}
+#button5 {
+    background: purple;
+}
+#button5:active , #button5.lit{
+    background:darkblue;
+   background-image: url("https://cdn.glitch.com/0ef5615b-9c67-48f8-97a7-544592f9f7bb%2Fe63c595dd1ad68d9699c73ffb7343d91.jpg?v=1615439870085");
+   background-position: center;
+  
+}
+#button1:active  ,#button1.lit{
+    background:green;
+    background-image: url("https://cdn.glitch.com/0ef5615b-9c67-48f8-97a7-544592f9f7bb%2Fgreen-abstract-geometric-background_23-2148366726.jpg?v=1615439657586");
+   background-position: center;
+  
+}
+#button2:active  ,#button2.lit{
+    background:blue;
+  background-image: url("https://cdn.glitch.com/0ef5615b-9c67-48f8-97a7-544592f9f7bb%2Fblue-white-low-poly-triangle-shapes-background_1035-19007.webp?v=1615439489116");
+   background-position: center;
+}
+#button3:active , #button3.lit{
+    background:red;
+ background-image: url("https://cdn.glitch.com/0ef5615b-9c67-48f8-97a7-544592f9f7bb%2FRed-Background-Wallpaper-Image-HD.jpg?v=1615439352279");
+   background-position: center;
+}
+#button4:active , #button4.lit{
+    background:yellow;
+   background-image: url("https://cdn.glitch.com/0ef5615b-9c67-48f8-97a7-544592f9f7bb%2FYellow-Background.jpg?v=1615439752033");
+   background-position: center;
+  
+}
