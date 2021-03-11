@@ -4,7 +4,7 @@
 
 Submitted by: **Solomon Alemu**
 
-Time spent: **6** hours spent in total
+Time spent: **4.5** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/titanium-mysterious-tapir)
 
